@@ -1,0 +1,11 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "oidcjfx-app",
+  "credentials": {
+    "secret": "d0ac01ec-baec-45f8-adcd-d6f73dbdba1b"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
